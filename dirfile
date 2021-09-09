@@ -1,0 +1,11 @@
+dirfile
+Dockerfile
+main.sh
+test.file
+test.file2
+total 16
+-rw-rw-r-- 1 ashish ashish 48 Sep  7 14:58 dirfile
+-rw-rw-r-- 1 ashish ashish 44 Sep  6 15:32 Dockerfile
+-rw-rw-r-- 1 ashish ashish  0 Sep  6 13:05 main.sh
+-rwxrw-r-- 1 ashish ashish 30 Sep  6 13:01 test.file
+-rw-rw-r-- 1 ashish ashish 30 Sep  6 13:13 test.file2
